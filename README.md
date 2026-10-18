@@ -32,7 +32,7 @@ The project follows an end-to-end data analytics workflow:
 6. Presentation using Gamma AI — communicate the results in a clear presentation.
 7. GitHub Repository — organize and share the project.
 
-## 🛠️ Tools and Technologies
+🛠️ Tools and Technologies
 
 | Tool | Purpose |
 |---|---|
