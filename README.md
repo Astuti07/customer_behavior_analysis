@@ -32,19 +32,20 @@ The project follows an end-to-end data analytics workflow:
 6. Presentation using Gamma AI — communicate the results in a clear presentation.
 7. GitHub Repository — organize and share the project.
 
-🛠️ Tools and Technologies
+## 🛠️ Tools and Technologies
 
-Tool                                       Purpose 
-Python                            Data analysis and preprocessing 
-Pandas                            Data manipulation and cleaning
-NumPy                             Numerical operations
-Matplotlib and Seaborn            Data visualization
-Jupyter Notebook                  Writing and running Python analysis
-SQL                               Data querying and business analysis
-PostgreSQL                        Database management
-Power BI                          Interactive dashboards 
-Gamma AI                          Presentation creation 
-Git and GitHub                    Version control and portfolio development 
+| Tool | Purpose |
+|---|---|
+| 🐍 Python | Data analysis and preprocessing |
+| 🐼 Pandas | Data manipulation and cleaning |
+| 🔢 NumPy | Numerical operations |
+| 📊 Matplotlib and Seaborn | Data visualization |
+| 📓 Jupyter Notebook | Writing and running Python analysis |
+| 🗄️ SQL | Data querying and business analysis |
+| 🐘 PostgreSQL | Database management |
+| 📈 Power BI | Interactive dashboards |
+| 🎨 Gamma AI | Presentation creation |
+| 🔗 Git and GitHub | Version control and portfolio development |
 
 📂 Dataset
 
