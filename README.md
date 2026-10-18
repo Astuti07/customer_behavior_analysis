@@ -171,9 +171,10 @@ Connect to your selected SQL database, load the prepared dataset, and run the qu
 Open the .pbix file in Power BI Desktop and configure the data source if necessary.
 
 Update these instructions to match the files and setup available in your repository.*
-
+ 
 📁 Project Structure
 
+```text
 customer-shopping-behavior-analysis/
 │
 ├── data/
@@ -196,7 +197,7 @@ customer-shopping-behavior-analysis/
 │
 ├── requirements.txt
 └── README.md
-
+```
 👩‍🎓 About Me
 
 Astuti Singh 
