@@ -22,7 +22,7 @@ Through this project, I aim to practice:
 
 The project follows an end-to-end data analytics workflow:
 
-![Customer Shopping Behavior Analysis Workflow](images/project_workflow.png)
+![Customer Shopping Behavior Analysis Workflow](project_workflow.png)
 
 1. Business Problem Statement — identify the questions to investigate.
 2. Data Cleaning and EDA using Python — inspect, prepare, and explore the dataset.
@@ -95,7 +95,7 @@ The final analysis will depend on the available dataset columns and the SQL quer
 
 The dashboard presents key metrics and comparisons related to customer shopping behavior.
 
-![Customer Behavior Dashboard](images/customer_behavior_dashboard.png)
+![Customer Behavior Dashboard](customer_behavior_dashboard.png)
 
 Dashboard Highlights
 
